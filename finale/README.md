@@ -1,33 +1,11 @@
-## 浅谈基于软件的创业 / On software-based starups
+### 后记 / Epilogue
 
-#### 前言
+#### 反复问自己的几个问题
 
-#### 第一部分：软件的未来与其商业价值 / Why software?
+1，我是否在一个有潜力的巨大市场里？
 
-1, 软件是工程学的最高形式 / Software is engineering at its best
+2，我的产品是不是用户喜爱的产品？我如何才能让用户体验更加简洁流畅？
 
-2, 软件的商业价值 / Software is a great business
+3，我如何才能让我的团队行动的效率更高？我如何才能吸引更多的强人加入到我们的团队？
 
-3，软件的成功案例 / Successful software examples
-
-#### 第二部分：创业的方向 / Ideas
-
-#### 第三部分：创业初期的一些策略 / Strategies
-
-1，做人们想要的产品 / Make things people want
-
-2，组建一支强大的团队 / Build a great team
-
-3，把小做好，再做大 / Start small and expand
-
-4，非常之时，采用非常手段 / Do things that don't scale
-
-5，保持和用户的沟通 / Talk to users a lot
-
-6，总是迅速做出正确地决定 / Always make the right decisions quickly
-
-7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
-
-8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
-
-#### 后记
+4，如果我不是在创业，而是在战场，失败的后果是死亡，那么我会怎么处理这件事？
