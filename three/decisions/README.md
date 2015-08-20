@@ -1,33 +1,21 @@
-## 浅谈基于软件的创业 / On software-based starups
+### 六，总是迅速地做出正确地决定
 
-#### 前言
+#### Always make the right decisions quickly.
 
-#### 第一部分：软件的未来与其商业价值 / Why software?
+这似乎是一句废话，但是很少有人可以做到这一点，可作为一个出色的决策者，这是一项基本的指标。
 
-1, 软件是工程学的最高形式 / Software is engineering at its best
+为了便于理解，可以做一个极端的类比：
 
-2, 软件的商业价值 / Software is a great business
+如果你不是在创业，而是在战场指挥一场战斗，你作为指挥官，带着自己的兄弟去攻下一个战地。
 
-3，软件的成功案例 / Successful software examples
+如果你不能迅速做出决定，你就会为此多死掉一些战士；如果你做出了错误的决定，那就会死掉更多的人，甚至是全军覆没，失去战斗。
 
-#### 第二部分：创业的方向 / Ideas
+商场没有战场那么残酷，但是也很相近，只不过失去的不是生命，而是时间和金钱。
 
-#### 第三部分：创业初期的一些策略 / Strategies
+"Startups are like jumping off a cliff and building a plane on the way down" - Reid Hoffman
 
-1，做人们想要的产品 / Make things people want
+原则八，站在别人的立场上看待问题
 
-2，组建一支强大的团队 / Build a great team
+Put yourself in other people's shoes
 
-3，把小做好，再做大 / Start small and expand
-
-4，非常之时，采用非常手段 / Do things that don't scale
-
-5，保持和用户的沟通 / Talk to users a lot
-
-6，总是迅速做出正确地决定 / Always make the right decisions quickly
-
-7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
-
-8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
-
-#### 后记
+除了非常笨和非常聪明的人之外，没人愿意承认自己的观点是错的，一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。

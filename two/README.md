@@ -1,31 +1,31 @@
-## 浅谈基于软件的创业 / On software-based starups
+### 第二部分，创业的点子
 
-文章框架：
+=================================
 
-#### 第一部分：软件的未来与其商业价值 / Why software?
+两个原则：
 
-1, 软件是工程学的最高形式 / Software is engineering at its best
+1, Great products almost come from someone scratching their own itch.
 
-2, 软件的商业价值 / Software is a great business
+伟大的点子大多数是创始人自己遇到的难题，解决一个特别想解决的问题有诸多优势：
 
-3，软件的成功案例 / Successful software examples
+- 做自己想做的事，可以在挫折面前提供更多的动力
 
-#### 第二部分：创业的方向 / Ideas
+- 自己作为用户，更加了解用户的需求，可以更加高效的进行产品设计
 
-#### 第三部分：创业初期的一些策略 / Strategies
+- 大多数情况下，你所遇到的问题，同时也将是大多数其他人遇到的难题
 
-1，做人们想要的产品 / Make things people want
+2, focus on what most people do at most of their time.
 
-2，组建一支强大的团队 / Build a great team
+把注意力集中在大多数人大多数时间遇到的问题
 
-3，把小做好，再做大 / Start small and expand
+=================================
 
-4，非常之时，采用非常手段 / Do things that don't scale
+创业的点子只是一个起点，大多数的创业公司都会在其发展的过程中调整甚至是改变点子。
 
-5，保持和用户的沟通 / Talk to users a lot
+只要明确两点就可以开始摸索着弄，1，点子所在的领域有做大的可能，2，你个人很感兴趣。
 
-6，总是迅速做出正确地决定 / Always make the right decisions quickly
+如果你在这个点子上有技术或者是人际上的优势，那就更好不过了。
 
-7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
+==================================
 
-8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
+我会在点子这个问题上，单独写一篇文章。

@@ -1,33 +1,49 @@
-## 浅谈基于软件的创业 / On software-based starups
+### 原则一，做人们想要的产品
 
-#### 前言
+Make things people want, love and even addict
 
-#### 第一部分：软件的未来与其商业价值 / Why software?
+这个原则可以认为是所有原则中的最高原则。
 
-1, 软件是工程学的最高形式 / Software is engineering at its best
+尤其是在前期产品不成熟的情况下，更应该反复的追问：
 
-2, 软件的商业价值 / Software is a great business
+**这个产品是人们想要的产品吗？它能够给人们带来效率上的提高或是需求上的满足吗？**
 
-3，软件的成功案例 / Successful software examples
+如果答案是否定的，那么所有其他的原则也就失去了意义，所有的努力也就都白费了。
 
-#### 第二部分：创业的方向 / Ideas
+为了精准的验证，初期产品的设计要避免一些低级的错误，也就是说：
 
-#### 第三部分：创业初期的一些策略 / Strategies
+“develop the product to the baseline level of quality the market requires.”
 
-1，做人们想要的产品 / Make things people want
+========================================
 
-2，组建一支强大的团队 / Build a great team
+#### 1，核心的功能要少而精
 
-3，把小做好，再做大 / Start small and expand
+![feature](http://i.imgur.com/AVFiKnd.jpg?1 "feature curve")
 
-4，非常之时，采用非常手段 / Do things that don't scale
+正如上图所示的，如果功能过少，用户可能会因为基本的需求难以满足而抛弃产品。如果功能过多，用户会被无关紧要的功能所迷惑，从而降低了产品的实用性。
 
-5，保持和用户的沟通 / Talk to users a lot
+#### 2，在重要的位置放重要的信息
 
-6，总是迅速做出正确地决定 / Always make the right decisions quickly
+Most people don’t read, but scan. 大多数人不会仔细阅读，只是大致浏览，看到感兴趣的才深入了解。
 
-7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
+![attention](http://i.imgur.com/fSUXs86.jpg?1 "Attention")
 
-8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
+简而言之，就是要把重要的文字信息放在左上侧，这可以认为是UX设计的第一原则。
 
-#### 后记
+#### 3，提供一个精美，至少是不差的UI
+
+![UI](http://i.imgur.com/1nE3g9c.png?1 "UI")
+
+人们会通过表面的设计来评价产品的实用性，或者说通过设计来判断一个公司的专业程度，从而来决定给一个产品多大的信任度。
+
+========================================
+
+#### 4，分析用户的行为，听取用户的反馈
+
+对用户的分析应该从第一天就开始，记录用户使用的行为，基于获得的数据来进行必要的性能改变和策略决定。
+
+始终保持和用户的沟通，不断听取用户的反馈。基于用户的反馈来改善产品，是验证产品有市场需求（Product/market fit ）最为保险的方式。
+
+=====================================
+
+参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)

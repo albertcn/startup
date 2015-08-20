@@ -1,33 +1,31 @@
-## 浅谈基于软件的创业 / On software-based starups
+### 原则三，把小做好，再做大
 
-#### 前言
+Start small and expand.
 
-#### 第一部分：软件的未来与其商业价值 / Why software?
+产品能否获得大多数人的需要和喜爱，是公司能否成功的最为重要的假设之一。
 
-1, 软件是工程学的最高形式 / Software is engineering at its best
+创业充满了不确定性，尤其是产品的设计，很难判断你所推出的产品是否正是用户所想要的。
 
-2, 软件的商业价值 / Software is a great business
+可以肯定的说，大多数产品的第一版都是非常不完善的，有许多值得提高和改善的地方，
 
-3，软件的成功案例 / Successful software examples
+为了消除其他因素的影响，可以在初期，集中服务好一小部分用户，做到让这些人非常满意，然后再考虑扩张。
 
-#### 第二部分：创业的方向 / Ideas
+更为具体地，
 
-#### 第三部分：创业初期的一些策略 / Strategies
+其他因素，例如过早的扩张（例如通过销售、促销和广告的手段），会带来大量的用户，但却很难区分增长是因为产品的本身很受欢迎，还是只是这些扩张的行动造成的，
 
-1，做人们想要的产品 / Make things people want
+集中服务好一部分用户，就是指，做出一些产品的修改后，咨询这些用户的体验和建议，根据这些建议，再进行修改和提高，直到这些用户非常满意，爱不释手。
 
-2，组建一支强大的团队 / Build a great team
+这些事情发生在初期，变量是可控的，测试用户的反响也是直接的，产品可以在短期内有大量实质的改良，极大的提高了产品成功的概率。
 
-3，把小做好，再做大 / Start small and expand
+如果你做的产品是为你自己服务的，而你自己又是一个完美主义者，那你就按照自己的品好来做大量的设计即可，效率更高。
 
-4，非常之时，采用非常手段 / Do things that don't scale
+#### launch fast and learn by testing
 
-5，保持和用户的沟通 / Talk to users a lot
+尽早的上线（或是做出一个雏形MVP），通过不断地尝试和对用户的交流来不断改良产品。
 
-6，总是迅速做出正确地决定 / Always make the right decisions quickly
+其好处在于，
 
-7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
+1，第一版产品一定是非常粗糙的，提早上线可以留出更多的时间来学习和改善产品
 
-8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
-
-#### 后记
+2，可以防止没有必要的拖拉，缩短产品的开发周期

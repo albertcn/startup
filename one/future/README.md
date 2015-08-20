@@ -1,33 +1,23 @@
-## 浅谈基于软件的创业 / On software-based starups
+### 1，软件工程是工程学的最高形式
 
-#### 前言
+从本质上讲，工程学就是利用物理学规律来提高需求满足的效率。
 
-#### 第一部分：软件的未来与其商业价值 / Why software?
+随着科学的进步，工程学的主流，逐渐从机械工程转变为电气工程，再从电气工程转变为软件工程。
 
-1, 软件是工程学的最高形式 / Software is engineering at its best
+比较机械工程，电气工程，软件工程。解决问题的方式越来越抽象，验证和实现设计的效率越来越高。
 
-2, 软件的商业价值 / Software is a great business
+软件工程从基本的底层逻辑出发，不受物理学规律的限制。软件工程是工程学的最高形式。
 
-3，软件的成功案例 / Successful software examples
+===================================
 
-#### 第二部分：创业的方向 / Ideas
 
-#### 第三部分：创业初期的一些策略 / Strategies
 
-1，做人们想要的产品 / Make things people want
+现在所谓的技术公司，甚至技术(tech)这个词，大多数都是狭义地指信息技术，所谓的首席技术官，就是主管编程的人。这不是我们这个时代（近二三十年内）的一时热门，相反的，这种情况将更加“恶化”。
 
-2，组建一支强大的团队 / Build a great team
+由于底层的物理学规律可以通过软件进行模拟，而工程学又是建立于物理学的规律之上。随着计算机计算能力的提高，尤其是量子计算的成熟，其他领域的工程学将逐渐被软件模拟来取代，大多数的的工程师将成为一个特殊的程序员。
 
-3，把小做好，再做大 / Start small and expand
+在可预见的未来里，软件工程将是人类提高生活效率的主要手段。
 
-4，非常之时，采用非常手段 / Do things that don't scale
+=====================================
 
-5，保持和用户的沟通 / Talk to users a lot
-
-6，总是迅速做出正确地决定 / Always make the right decisions quickly
-
-7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
-
-8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
-
-#### 后记
+参考阅读：[Programming the Universe](http://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist/dp/1400033861), Seth Lloyd, 2007
