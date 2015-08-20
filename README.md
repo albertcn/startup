@@ -1,7 +1,5 @@
 ## 浅谈基于软件的创业 / On software-based starups
 
-文章框架：
-
 #### 第一部分：软件的未来与其商业价值 / Why software?
 
 1, 软件是工程学的最高形式 / Software is engineering at its best
