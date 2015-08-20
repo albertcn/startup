@@ -14,7 +14,7 @@
 
 #### 第三部分：[创业初期的一些策略 / Part three: Strategies](https://github.com/linyingkui/startup/tree/master/three)
 
-1，[做人们想要的产品 / Make things people want](https://github.com/linyingkui/startup/tree/master/three/markit-fit)
+1，[做人们想要的产品 / Make things people want](https://github.com/linyingkui/startup/tree/master/three/market-fit)
 
 2，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team)
 
