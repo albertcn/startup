@@ -2,7 +2,7 @@
 
 #### [前言 / Prologue](https://github.com/linyingkui/startup/tree/master/intro)
 
-#### 第一部分：软件的未来与其商业价值 / Part one: Why software?
+#### 第一部分 / Part one：软件的未来与其商业价值 / Why software?
 
 1，[软件是工程学的最高形式 / Software is engineering at its best](https://github.com/linyingkui/startup/tree/master/one/future)
 
@@ -10,9 +10,9 @@
 
 3，[软件的成功案例 / Successful software examples](https://github.com/linyingkui/startup/tree/master/one/success)
 
-#### 第二部分：[创业的方向 / Part two: Ideas](https://github.com/linyingkui/startup/tree/master/two)
+#### 第二部分 / Part two：[创业的方向 / Ideas](https://github.com/linyingkui/startup/tree/master/two)
 
-#### 第三部分：[创业初期的一些策略 / Part three: Strategies](https://github.com/linyingkui/startup/tree/master/three)
+#### 第三部分 / Part three：[创业初期的一些策略 / Strategies](https://github.com/linyingkui/startup/tree/master/three)
 
 1，[做人们想要的产品 / Make things people want](https://github.com/linyingkui/startup/tree/master/three/market-fit)
 
