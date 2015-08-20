@@ -8,7 +8,7 @@
 
 2，[软件的商业价值 / Software is a great business](https://github.com/linyingkui/startup/tree/master/one/business)
 
-3，[软件的成功案例 / Successful software examples](https://github.com/linyingkui/startup/tree/master/one/success)
+3，[软件的成功案例 / Successful software businesses](https://github.com/linyingkui/startup/tree/master/one/success)
 
 #### 第二部分 / Part two：[创业的方向 / Ideas](https://github.com/linyingkui/startup/tree/master/two)
 
