@@ -19,3 +19,6 @@
 Put yourself in other people's shoes
 
 除了非常笨和非常聪明的人之外，没人愿意承认自己的观点是错的，一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。
+
+
+Make decisions based on real data, not your own assumptions.
