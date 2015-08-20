@@ -1,5 +1,7 @@
 ## 浅谈基于软件的创业 / On software-based starups
 
+#### 前言
+
 #### 第一部分：软件的未来与其商业价值 / Why software?
 
 1, 软件是工程学的最高形式 / Software is engineering at its best
@@ -27,3 +29,5 @@
 7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
 
 8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
+
+#### 后记
