@@ -12,7 +12,7 @@
 
 #### 第二部分：创业的方向 / Part two: Ideas
 
-#### 第三部分：创业初期的一些策略 / Part three: Strategies
+#### 第三部分：[创业初期的一些策略 / Part three: Strategies](https://github.com/linyingkui/startup/tree/master/three)
 
 1，做人们想要的产品 / Make things people want
 
