@@ -1,31 +1,19 @@
-## 浅谈基于软件的创业 / On software-based starups
+### 提高创业成功的可能性
 
-文章框架：
+这里讨论的创业并不包含所有不受他人雇佣、自己创造财富的商业行为。
 
-#### 第一部分：软件的未来与其商业价值 / Why software?
+更具体的，也就是并不包含传统的小商业户，例如，开个奶茶店、化妆品店或是婚纱店（无论是线上还是线下）。
 
-1, 软件是工程学的最高形式 / Software is engineering at its best
+因为传统的小商业户所从事的领域相对很成熟，风险较低，回报相对较少，商业规模也有限制。
 
-2, 软件的商业价值 / Software is a great business
+这里讨论的创业指的是一项高风险、高回报的商业行为，往往创业者要提供一个从未存在或是进行过极大改良的产品或服务。
 
-3，软件的成功案例 / Successful software examples
+创业是非常非常艰难的事，可以认为创业是把大量复杂的任务综合到一起的一个大挑战，还要考虑运气的干扰。
 
-#### 第二部分：创业的方向 / Ideas
+创业的成功概率很低，绝大多数（90%）的公司都会倒闭。
 
-#### 第三部分：创业初期的一些策略 / Strategies
+作为一个创业者，面对巨大的未知，唯一的目标就是提高成功的概率，让公司和产品更久的活下去。
 
-1，做人们想要的产品 / Make things people want
+每个创业的经历都有着其独特之处，其成功的模式和路径并不适用每一个创业公司，尤其是那些想做出巨大变革的公司。但是有一些非常底层的原则适用于大多数的创业公司，这些经验可以避免创业者犯一些常见的错误，少走一些弯路，提高自己成功的概率。
 
-2，组建一支强大的团队 / Build a great team
-
-3，把小做好，再做大 / Start small and expand
-
-4，非常之时，采用非常手段 / Do things that don't scale
-
-5，保持和用户的沟通 / Talk to users a lot
-
-6，总是迅速做出正确地决定 / Always make the right decisions quickly
-
-7，身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer
-
-8，专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success
+接下来的第三大部分就是讨论一些非常底层的原则。
