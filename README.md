@@ -4,9 +4,9 @@
 
 #### 第一部分：软件的未来与其商业价值 / Part one: Why software?
 
-1, [软件是工程学的最高形式 / Software is engineering at its best](https://github.com/linyingkui/startup/tree/master/one/future)
+1，[软件是工程学的最高形式 / Software is engineering at its best](https://github.com/linyingkui/startup/tree/master/one/future)
 
-2, [软件的商业价值 / Software is a great business](https://github.com/linyingkui/startup/tree/master/one/business)
+2，[软件的商业价值 / Software is a great business](https://github.com/linyingkui/startup/tree/master/one/business)
 
 3，[软件的成功案例 / Successful software examples](https://github.com/linyingkui/startup/tree/master/one/success)
 
