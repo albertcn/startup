@@ -28,6 +28,6 @@
 
 7，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick)
 
-8，[专注于如何不失败，而不是如何成功 / Focus on how not to fail, not how to success](https://github.com/linyingkui/startup/tree/master/three/not-fail)
+8，[专注于如何提高，而不是满足于现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/not-fail)
 
 #### [后记 / Epilogue](https://github.com/linyingkui/startup/tree/master/finale)
