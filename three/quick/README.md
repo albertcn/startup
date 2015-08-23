@@ -34,7 +34,7 @@ Exercise more, execute faster and work longer
 
 4，先找到解决问题的方案，再去想改善方案 / Solve the problem first, then refactor.
 
-
+大多数的完美主义都是空中楼阁
 
 #### 3，工时要长
 
