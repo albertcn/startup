@@ -10,6 +10,14 @@ Make things people want, love and even addict
 
 如果答案是否定的，那么所有其他的原则也就失去了意义，所有的努力也就都白费了。
 
+========================================
+
+做人们想要的产品似乎是显而易见的道理，但是很容易被创业者所忽视。
+
+1，
+
+========================================
+
 为了精准的验证，初期产品的设计要避免一些低级的错误，也就是说：
 
 “develop the product to the baseline level of quality the market requires.”
