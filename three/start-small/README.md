@@ -38,7 +38,7 @@
 
 1，第一版产品往往是非常粗糙的，提早上线可以留出更多的时间来学习和改善产品
 
-You don't learn until you launch.
+[You don't learn until you launch.](http://www.amazon.com/The-Day-Startup-Learn-Launch-ebook/dp/B00NZFKB8S)
 
 2，可以防止没有必要的拖拉，缩短产品的开发周期
 
