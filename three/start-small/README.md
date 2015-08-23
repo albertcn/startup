@@ -47,3 +47,7 @@
 ========================================
 
 参考阅读：[Zero to One - Chapter Five: Last Mover Advantage](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) - Peter Thiel
+
+========================================
+
+3，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)
