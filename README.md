@@ -16,17 +16,17 @@
 
 1，[做人们想要的产品 / Make things people want](https://github.com/linyingkui/startup/tree/master/three/market-fit)
 
-2，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team)
+2，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small)
 
-3，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small)
+3，[总是迅速做出正确地决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions)
 
-4，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale)
+4，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team)
 
 5，[保持和用户的沟通 / Talk to users a lot](https://github.com/linyingkui/startup/tree/master/three/users)
 
-6，[总是迅速做出正确地决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions)
+6，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick)
 
-7，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick)
+7，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale)
 
 8，[专注于如何提高，而不是满足于现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/not-fail)
 
