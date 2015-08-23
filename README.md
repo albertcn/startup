@@ -18,16 +18,14 @@
 
 2，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
 
-3，[总是迅速做出正确地决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)
+3，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)
 
 4，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
 
-5，[保持和用户的沟通 / Talk to users a lot](https://github.com/linyingkui/startup/tree/master/three/users/README.md)
+5，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
 
-6，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
+6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
 
-7，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
-
-8，[专注于如何提高，而不是满足于现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/not-fail/README.md)
+7，[专注于如何提高，而不是满足现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/not-fail/README.md)
 
 #### [后记 / Epilogue](https://github.com/linyingkui/startup/tree/master/finale/README.md)
