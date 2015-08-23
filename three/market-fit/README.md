@@ -38,6 +38,8 @@ Make things people want, love and even addict
 
 正如上图所示的，如果功能过少，用户可能会因为基本的需求难以满足而抛弃产品。如果功能过多，用户会被无关紧要的功能所迷惑，从而降低了产品的实用性。
 
+"You have to make every single detail perfect. And you have to limit the number of details." - Jack Dorsey
+
 #### 2，在重要的位置放重要的信息
 
 Most people don’t read, but scan. 大多数人不会仔细阅读，只是大致浏览，看到感兴趣的才深入了解。
