@@ -1,4 +1,4 @@
-### 原则三，把小做好，再做大
+### 2，把小做好，再做大
 
 Start small and expand.
 
