@@ -31,3 +31,5 @@
 我会在点子这个问题上，单独写一篇文章。
 
 在网上找不到相关信息，在网上很难买到相关产品
+
+Your solution must be at least 10 times better than its cloest substitute in some important dimension to lead a monopolistic advantage.
