@@ -15,3 +15,5 @@
 我看到许多创业者，经常去试图解决他们无需解决的问题，通过在这些问题上的工作来欺骗自己，好像自己正在努力前行，其实就是原地踏步，自欺欺人。
 
 Focus on signal over noise.
+
+参考阅读：[Do things that don't scale](http://paulgraham.com/ds.html) -  Paul Graham
