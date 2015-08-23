@@ -55,7 +55,7 @@ Make decisions based on real data, not your own assumptions.
 
 - 只利用类比来理解问题，不要用类比来分析问题。
 
-根据确凿明确的事实，采用较为底层的原理去推断，可以减低许多没有必要的试验，可以实现多次产品设计上的量子跃迁。
+根据明确的事实，采用较为底层的原理去推断，可以减低许多没有必要的试验，可以实现产品设计上的多次量子跃迁。
 
 例如，爱因斯坦的狭义、广义相对论就是通过几个简单地假设，经过严密的数学推导而取得的跨时代进步。
 
@@ -68,10 +68,6 @@ Make decisions based on real data, not your own assumptions.
 一个形象的数学上的类比（[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)）：
 
 ![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
-
-If a hill-climber begins in a poor location, it may converge to the lower maximum.
-
-一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。
 
 ========================================
 
