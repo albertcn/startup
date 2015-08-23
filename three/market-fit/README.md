@@ -62,4 +62,4 @@ Most people don’t read, but scan. 大多数人不会仔细阅读，只是大�
 
 =====================================
 
-参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)
+参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) -  Marc Andreessen
