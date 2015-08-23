@@ -14,7 +14,7 @@
 
 "Startups are like jumping off a cliff and building a plane on the way down" - Reid Hoffman
 
-思考问题的方式主要由以下三种（按效率从低到高排列），科学验证，相信直觉，逻辑分析，
+思考问题的方式主要有以下三种（按效率从低到高排列）：科学验证，相信直觉，逻辑分析。
 
 ========================================
 
@@ -22,6 +22,16 @@
 #### 1，科学验证
 
 ![science](http://i.imgur.com/lIaCB4N.png?1 "Science")
+
+Make decisions based on real data, not your own assumptions.
+
+这个策略就是提出假设，设计产品收集数据，通过数据来验证假设成立与否。
+
+更具体的可以参考阅读《[Lean Startup](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)》一书。
+
+其优点是，避免了许多是似而非的假设，使产品在试验中不断趋于完善。
+
+但缺点是，测试周期较长，效率不高；如果出发点限制条件过多，产品的未来发展会受到限制。
 
 ========================================
 
@@ -33,13 +43,11 @@
 
 ========================================
 
-#### 1，逻辑分析
+#### 3，逻辑分析
 
 ![math](http://i.imgur.com/6cPvRNM.png?1 "Math")
 
-To a definite optimist, the future will be better than the present if he plans and works to make it better.
-
-Make it happen by designing a specific plan, a well-thought strategy and great execution.
+逻辑分析就是基于确凿的事实，通过反复使用较为严密的定义或已知的规律，得到结论
 
 - 当你可以进行较为严密的分析时，选择逻辑分析是最快捷的方式。
 
@@ -48,8 +56,6 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 - 只利用类比来理解问题，不要用类比来分析问题。
 
 根据确凿明确的事实，采用较为底层的原理去推断，可以减低许多没有必要的试验，可以实现多次产品设计上的量子跃迁。
-
-一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。
 
 例如，爱因斯坦的狭义、广义相对论就是通过几个简单地假设，经过严密的数学推导而取得的跨时代进步。
 
@@ -63,10 +69,11 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 
 ![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
 
-Make decisions based on real data, not your own assumptions.
-
-
 If a hill-climber begins in a poor location, it may converge to the lower maximum.
+
+一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。
+
+========================================
 
 为了更好的决策，还有一些其他的技巧，如：
 
