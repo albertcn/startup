@@ -8,11 +8,27 @@ Make things people want, love and even addict
 
 **这个产品是人们想要的产品吗？它能够给人们带来效率上的提高或是需求上的满足吗？**
 
+**如果产品是对旧有方案的改进，那么这个产品较之旧有的方案有什么样的优势？这些优势足够强大到用户改变自己的旧有习惯来适应这个新产品吗？**
+
 如果答案是否定的，那么所有其他的原则也就失去了意义，所有的努力也就都白费了。
+
+========================================
+
+做人们想要的产品似乎是显而易见的道理，但却很容易被创业者所（长期）忽视，原因在于：
+
+1，创业者需要处理和关注的事情太多，但难以分清主次
+
+2，创业者会把一些错误的噪音认为是用户喜欢的信号
+
+3，创业者会因为自己做出了很多努力，本能的回避用户不接受产品的事实
+
+========================================
 
 为了精准的验证，初期产品的设计要避免一些低级的错误，也就是说：
 
-“develop the product to the baseline level of quality the market requires.”
+“Develop the product to the baseline level of quality the market requires.”
+
+一些基本的产品设计原则有：
 
 ========================================
 
@@ -46,4 +62,4 @@ Most people don’t read, but scan. 大多数人不会仔细阅读，只是大�
 
 =====================================
 
-参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)
+参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) -  Marc Andreessen
