@@ -12,15 +12,19 @@ Make things people want, love and even addict
 
 ========================================
 
-做人们想要的产品似乎是显而易见的道理，但是很容易被创业者所忽视。
+做人们想要的产品似乎是显而易见的道理，但却很容易被创业者所忽视，原因在于：
 
-1，
+1，创业者需要处理和关注的事情太多，但却没有分清主次
+
+2，创业者会把一些错误的噪音认为是用户喜欢的信号
+
+3，创业者会因为自己做出了很多努力，本能的回避用户不接受产品的事实
 
 ========================================
 
 为了精准的验证，初期产品的设计要避免一些低级的错误，也就是说：
 
-“develop the product to the baseline level of quality the market requires.”
+“Develop the product to the baseline level of quality the market requires.”
 
 ========================================
 
