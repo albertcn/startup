@@ -40,7 +40,9 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 
 "Making small changes to things that already exist might lead you to a local maximum but it won't help you find the global maximum."
 
-采用Lean Startup的策略，可以保证你的产品达到局域的最佳值，
+采用Lean Startup的策略，可以保证你的产品逐渐逼近局域的最佳值，但却不能达到全局的最佳值，为了寻找全局的最佳值，就需要从更底层的事实出发，增加要考虑变量的数量。
+
+一个更加形象的数学上的类比：
 
 ![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
 
