@@ -25,4 +25,9 @@
 
 参考阅读：[Zero to One - Chapter 9: Foundations](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
 
+========================================
+
+5，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
+
+
 
