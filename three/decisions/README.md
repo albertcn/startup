@@ -42,11 +42,10 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 
 采用Lean Startup的策略，可以保证你的产品逐渐逼近局域的最佳值，但却不能达到全局的最佳值，为了寻找全局的最佳值，就需要从更底层的事实出发，增加要考虑变量的数量。
 
-一个更加形象的数学上的类比：
+一个更加形象的数学上的类比（[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)）：
 
 ![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
 
-[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)
 
 If a hill-climber begins in a poor location, it may converge to the lower maximum.
 
