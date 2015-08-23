@@ -23,6 +23,6 @@
 
 ========================================
 
-参考阅读：[Zero to One - Chapter Nine: Foundations](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
+参考阅读：[Zero to One - Chapter 9: Foundations](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
 
 
