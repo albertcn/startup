@@ -46,7 +46,7 @@
 
 ========================================
 
-参考阅读：[Zero to One - Chapter Five: Last Mover Advantage](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) - Peter Thiel
+参考阅读：[Zero to One - Chapter 5: Last Mover Advantage](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) - Peter Thiel
 
 ========================================
 
