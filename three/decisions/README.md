@@ -46,6 +46,8 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 
 [Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)
 
+If a hill-climber begins in a poor location, it may converge to the lower maximum.
+
 ========================================
 
 #### 2，相信直觉
