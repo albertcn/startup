@@ -49,6 +49,8 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 
 根据确凿明确的事实，采用较为底层的原理去推断，可以减低许多没有必要的试验，可以实现多次产品设计上的量子跃迁。
 
+一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。
+
 例如，爱因斯坦的狭义、广义相对论就是通过几个简单地假设，经过严密的数学推导而取得的跨时代进步。
 
 例如，乔布斯带领下的iPod、iPhone和iPad是根据其对产品敏锐地洞察和分析得到的结果，而无需走假设试验测试这样一条保险却又耗时的长路。
@@ -66,11 +68,11 @@ Make decisions based on real data, not your own assumptions.
 
 If a hill-climber begins in a poor location, it may converge to the lower maximum.
 
-为了更好的决策，还有一些其他的技巧，例如：
+为了更好的决策，还有一些其他的技巧，如：
 
-1，站在别人的立场上看待问题，Put yourself in other people's shoes
+#### 1，站在别人的立场上看待问题 / Put yourself in other people's shoes
 
-除了非常笨和非常聪明的人之外，没人愿意承认自己的观点是错的，一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。
+#### 2，伤其十指，不如断其一指 / Do one thing and do it well.
 
 
 参考阅读：[Zero to One - Chapter Six: You are not a lottery ticket](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
