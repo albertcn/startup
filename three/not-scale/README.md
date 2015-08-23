@@ -18,8 +18,4 @@
 
 ==============================================
 
-参考阅读：
-
-==============================================
-
 7，[专注于如何提高，而不是满足现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/better/README.md)
