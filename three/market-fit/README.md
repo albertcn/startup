@@ -66,8 +66,8 @@ Most people don’t read, but scan. 大多数人不会仔细阅读，只是大�
 
 =====================================
 
-2，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
+参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) -  Marc Andreessen
 
 =====================================
 
-参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) -  Marc Andreessen
+2，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
