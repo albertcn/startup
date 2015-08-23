@@ -26,6 +26,8 @@ Make things people want, love and even addict
 
 “Develop the product to the baseline level of quality the market requires.”
 
+一些基本的产品设计原则有：
+
 ========================================
 
 #### 1，核心的功能要少而精
