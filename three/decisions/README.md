@@ -2,7 +2,7 @@
 
 #### Always make the right decisions quickly.
 
-这似乎是一句废话，但是很少有人可以做到这一点，可作为一个出色的决策者，这是一项基本的指标。
+这似乎是一句废话，但是很少有人可以做到这一点，但作为一个出色的决策者，这是一项基本的指标。
 
 为了便于理解，可以做一个极端的类比：
 
@@ -14,7 +14,22 @@
 
 "Startups are like jumping off a cliff and building a plane on the way down" - Reid Hoffman
 
-思考问题的方式主要由以下三种（按效率的高低排列），逻辑分析，相信直觉，科学验证
+思考问题的方式主要由以下三种（按效率从低到高排列），科学验证，相信直觉，逻辑分析，
+
+========================================
+
+
+#### 1，科学验证
+
+![science](http://i.imgur.com/lIaCB4N.png?1 "Science")
+
+========================================
+
+#### 2，相信直觉
+
+在产品设计上，相信直觉是一个非常直接有效地方法。但前提在于你要能够区分大众审美下的美丑，区分专业和业余的设计，简单地说你要对设计非常的敏感，你会因为一个粗糙的产品而感到坐立不安，会对一个出色的设计感到兴奋。
+
+在重要的决策上尽量不要使用直觉，如果没有强有力的证据做支撑，相信直觉和赌博没什么区别。
 
 ========================================
 
@@ -42,36 +57,20 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 
 采用Lean Startup的策略，可以保证你的产品逐渐逼近局域的最佳值，但却不能达到全局的最佳值，为了寻找全局的最佳值，就需要从更底层的事实出发，增加要考虑变量的数量。
 
-一个更加形象的数学上的类比（[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)）：
+一个形象的数学上的类比（[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)）：
 
 ![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
+
+Make decisions based on real data, not your own assumptions.
 
 
 If a hill-climber begins in a poor location, it may converge to the lower maximum.
 
-========================================
+为了更好的决策，还有一些其他的技巧，例如：
 
-#### 2，相信直觉
-
-在产品设计上，相信直觉是一个非常直接有效地方法。但前提在于你要能够区分大众审美下的美丑，区分专业和业余的设计，简单地说你要对设计非常的敏感，你会因为一个粗糙的产品而感到坐立不安，会对一个出色的设计感到兴奋。
-
-在重要的决策上尽量不要使用直觉，如果没有强有力的证据做支撑，相信直觉和赌博没什么区别。
-
-========================================
-
-#### 3，科学验证
-
-![science](http://i.imgur.com/lIaCB4N.png?1 "Science")
-
-
-
-原则八，站在别人的立场上看待问题
-
-Put yourself in other people's shoes
+1，站在别人的立场上看待问题，Put yourself in other people's shoes
 
 除了非常笨和非常聪明的人之外，没人愿意承认自己的观点是错的，一个思维能力不强的人，往往会随性感性的处理信息，将感觉舒服的观点看作是正确的观点，并倾向于为自己感觉正确的结论堆砌相关性较弱的理由，这是非常常见的。
 
-
-Make decisions based on real data, not your own assumptions.
 
 参考阅读：[Zero to One - Chapter Six: You are not a lottery ticket](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
