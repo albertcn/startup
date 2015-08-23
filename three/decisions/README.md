@@ -1,4 +1,4 @@
-### 六，总是迅速地做出正确地决定
+### 3，总是迅速地做出正确地决定
 
 #### Always make the right decisions quickly.
 
@@ -77,5 +77,10 @@ Make decisions based on real data, not your own assumptions.
 
 #### 2，伤其十指，不如断其一指 / Do one thing and do it well.
 
+========================================
 
 参考阅读：[Zero to One - Chapter Six: You are not a lottery ticket](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
+
+========================================
+
+4，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
