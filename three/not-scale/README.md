@@ -8,6 +8,10 @@
 
 创业的早期，公司的主要目的是降低风险，而核心的风险就是开发的产品是否有市场需求。在创业初期，不要处处完美，而是处处迅速。
 
+一个例子就是，早期获得用户的方式可能是短期的策略：
+
+"The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can't wait for users to come to you. You have to go out and get them."
+
 ### Solve the problem when you have to
 
 在你学车的时候，你没有必要把引擎盖下面的原理搞的一清二楚，不仅耽误时间，而且对你学开车没有任何帮助。
