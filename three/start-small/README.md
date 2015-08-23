@@ -42,5 +42,6 @@
 
 2，可以防止没有必要的拖拉，缩短产品的开发周期
 
+========================================
 
 参考阅读：[Zero to One - Chapter Five: Last Mover Advantage](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
