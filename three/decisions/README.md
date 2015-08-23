@@ -14,6 +14,8 @@
 
 "Startups are like jumping off a cliff and building a plane on the way down" - Reid Hoffman
 
+思考问题的方式主要由以下三种（按效率的高低排列），逻辑分析，相信直觉，科学验证
+
 ========================================
 
 #### 1，逻辑分析
@@ -32,13 +34,11 @@ Make it happen by designing a specific plan, a well-thought strategy and great e
 
 根据确凿明确的事实，采用较为底层的原理去推断，可以减低许多没有必要的试验，可以实现多次产品设计上的量子跃迁。
 
-例如，爱因斯坦的狭义、广义相对论就是通过几个简单地假设，经过严密的数学推导而取得的跨时代的进步。
+例如，爱因斯坦的狭义、广义相对论就是通过几个简单地假设，经过严密的数学推导而取得的跨时代进步。
 
-例如，乔布斯带领下的iPod，iPhone和iPad都是根据其对产品敏锐地洞察和分析得到的结果，而无需走假设试验测试这样一条保险却又耗时的长路。
+例如，乔布斯带领下的iPod、iPhone和iPad是根据其对产品敏锐地洞察和分析得到的结果，而无需走假设试验测试这样一条保险却又耗时的长路。
 
 "Making small changes to things that already exist might lead you to a local maximum but it won't help you find the global maximum."
-
-Zero to one chapter 6: you are not a lottery ticket
 
 ========================================
 
@@ -64,3 +64,5 @@ Put yourself in other people's shoes
 
 
 Make decisions based on real data, not your own assumptions.
+
+参考阅读：[Zero to One - Chapter Six: You are not a lottery ticket](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
