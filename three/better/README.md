@@ -1,4 +1,4 @@
-### 八，专注于如何提高，而不是满足于现状
+### 7，专注于如何提高，而不是满足于现状
 
 ### Focus on getting better, rather than being good.
 
@@ -9,3 +9,8 @@
 2，不要过早庆祝，融资只能让问题更难
 
 3，生于忧患，死于安乐
+
+==================
+
+[后记 / Epilogue](https://github.com/linyingkui/startup/tree/master/finale/README.md)
+
