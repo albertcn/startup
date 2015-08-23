@@ -1,4 +1,4 @@
-### 七，身体要棒，行动要快，工时要长
+### 5，身体要棒，行动要快，工时要长
 
 Exercise more, execute faster and work longer
 
@@ -40,4 +40,6 @@ Exercise more, execute faster and work longer
 
 周末和节假日应该尽量取消，周末两天接近于一周三分之一的工作量（30/105），怎么忍心浪费？
 
+===============================
 
+6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
