@@ -1,4 +1,4 @@
-### 原则一，做人们想要的产品
+### 1，做人们想要的产品
 
 Make things people want, love and even addict
 
