@@ -28,6 +28,6 @@ Exercise more, execute faster and work longer
 
 2，做非常具体的规划和估计
 
-3，给自己设定具体的中期目标，并设置一个具体合理的期限
+3，设定具体合理的中期目标，并设置一个具体合理的期限
 
 4，先找到解决问题的方案，再去想改善方案 / Solve the problem first, then refactor.
