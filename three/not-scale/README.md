@@ -17,3 +17,7 @@
 ==============================================
 
 参考阅读：[Do things that don't scale](http://paulgraham.com/ds.html) -  Paul Graham
+
+==============================================
+
+7，[专注于如何提高，而不是满足现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/better/README.md)
