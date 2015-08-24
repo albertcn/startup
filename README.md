@@ -16,16 +16,14 @@
 
 1，[做人们想要的产品 / Make things people want](https://github.com/linyingkui/startup/tree/master/three/market-fit/README.md)
 
-2，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
+2，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
 
-3，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)
+3，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
 
-4，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
+4，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
 
-5，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
+5，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)（not finished）
 
-6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
-
-7，[专注于如何提高，而不是满足现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/better/README.md)
+6，[身体要棒，动作要快，工时要长 / Exercise more, execute faster and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
 
 #### [后记 / Epilogue](https://github.com/linyingkui/startup/tree/master/finale/README.md)
