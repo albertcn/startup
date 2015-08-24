@@ -71,7 +71,7 @@ Make decisions based on real data, not your own assumptions.
 
 ![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
 
-
+If a hill-climber begins in a poor location, it may converge to the lower maximum.
 
 ========================================
 
