@@ -10,13 +10,17 @@
 
 ![Push Car](http://i.imgur.com/oalaoHg.jpg)
 
-创业的早期，公司的主要目的是降低风险，而核心的风险就是开发的产品是否有市场需求。在创业初期，无需处处完美，而是处处高效（迅速）。
+这样做的原因在于：
 
-创业初期是非常脆弱的，如果达不到一定的规模，却消耗掉了所有的资源，就只有面临失败的结局。创业初期，先想着如何利用有限的资源至少生存下去，等时机成熟了再想着改善。
+1，创业初期主要目的是降低风险，而核心的风险是产品是否有市场需求。需要问自己的问题，不是这个策略是不是长远之计，而是这样做是不是可以在验证市场需求的过程中节约了时间。
+
+2，节约时间和资源。创业初期是非常脆弱的，如果达不到一定的规模，却消耗掉了所有的资源，就只有面临失败的结局。创业初期，先想着如何利用有限的资源至少生存下去，等时机成熟了再想着改善。
+
+在创业初期，无需处处完美，而是处处高效（迅速）。
 
 更多可参考《[Do things that don't scale](http://paulgraham.com/ds.html)》一文，以及《[Do things that don't scale](http://startupclass.samaltman.com/courses/lec08/)》一课
 
-### Solve the problem when you have to
+### Solve the problem when you have to, save your energy for things matter
 
 学车的时候，没有必要把引擎盖下面的原理搞的一清二楚，不仅耽误时间，而且对学开车没有任何帮助。
 
