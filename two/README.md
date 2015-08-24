@@ -44,7 +44,7 @@ advantage.
 
 2, what's new and better (with demo)
 
-3, why it can be big
+3, business modal and why it can be big
 
 3, why now
 
