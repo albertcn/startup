@@ -1,4 +1,4 @@
-### 3，总是迅速地做出正确地决定
+### 5，总是迅速地做出正确地决定
 
 #### Always make the right decisions quickly.
 
@@ -83,4 +83,4 @@ Make decisions based on real data, not your own assumptions.
 
 ========================================
 
-4，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
+6，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)

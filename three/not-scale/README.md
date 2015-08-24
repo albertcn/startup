@@ -30,4 +30,4 @@
 
 ==============================================
 
-[后记 / Epilogue](https://github.com/linyingkui/startup/tree/master/finale/README.md)
+5，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)

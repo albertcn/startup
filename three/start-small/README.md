@@ -50,4 +50,4 @@
 
 ========================================
 
-3，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)
+4，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)

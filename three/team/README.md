@@ -27,7 +27,4 @@
 
 ========================================
 
-5，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
-
-
-
+3，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
