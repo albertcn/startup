@@ -30,7 +30,7 @@
 
 4，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
 
-5，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
+5，[身体要棒，动作要快，工时要长 / Exercise more, execute faster and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
 
 6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
 
