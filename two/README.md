@@ -32,4 +32,30 @@
 
 在网上找不到相关信息，在网上很难买到相关产品
 
-Your solution must be at least 10 times better than its cloest substitute in some important dimension to lead a monopolistic advantage.
+Your solution must be at least 10 times better than its cloest substitute in some important dimension to lead a monopolistic
+
+advantage.
+
+==================================
+
+====== Basic Questions
+
+1, problem and solution (with demo)
+
+2, what's new and better (with demo)
+
+3, why it can be big
+
+3, why now
+
+4, how to start small
+
+5, how to expand
+
+====== Monopoly Questions
+
+6, why it can stand still for 10 years
+
+7, why others can't see this opportunity
+
+9, what's the team or tech advantages
