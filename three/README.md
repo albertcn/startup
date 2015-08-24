@@ -34,3 +34,5 @@
 
 6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
 
+[后记 / Epilogue](https://github.com/linyingkui/startup/tree/master/finale/README.md)
+
