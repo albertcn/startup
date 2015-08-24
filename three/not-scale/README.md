@@ -6,7 +6,7 @@
 
 一个类比就是，一个
 
-![Push the car](http://i.imgur.com/xU1Yr2m.jpg)
+![Push the car](http://i.imgur.com/oalaoHg.jpg)
 
 创业的早期，公司的主要目的是降低风险，而核心的风险就是开发的产品是否有市场需求。在创业初期，不要处处完美，而是处处迅速。
 
