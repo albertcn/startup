@@ -32,7 +32,7 @@
 
 5，[身体要棒，动作要快，工时要长 / Exercise more, execute faster, and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
 
-6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)（not finished）
+6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
 
 7，[专注于如何提高，而不是满足现状 / Focus on getting better, rather than being good](https://github.com/linyingkui/startup/tree/master/three/better/README.md)（not finished）
 
