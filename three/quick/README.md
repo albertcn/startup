@@ -40,6 +40,8 @@ Exercise more, execute faster and work longer
 
 周末和节假日应该尽量取消，周末两天接近于一周三分之一的工作量（30/105），怎么忍心浪费？
 
+在创业公司，一个月的工作量应该和一个大公司内一年的工作量相当，才算是一个效率和工作时长的合理预期。
+
 ===============================
 
 6，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
