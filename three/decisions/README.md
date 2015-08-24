@@ -81,6 +81,8 @@ Make decisions based on real data, not your own assumptions.
 
 #### 2，伤其十指，不如断其一指 / Do one thing and do it well.
 
+#### 3，不过早的庆祝 / Know exactly how far you have left to go
+
 ========================================
 
 参考阅读：[Zero to One - Chapter Six: You are not a lottery ticket](http://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ) -  Peter Thiel
