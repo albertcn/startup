@@ -64,6 +64,10 @@ Most people don’t read, but scan. 大多数人不会仔细阅读，只是大�
 
 始终保持和用户的沟通，不断听取用户的反馈。基于用户的反馈来改善产品，是验证产品有市场需求（Product/market fit ）最为保险的方式。
 
+创业公司的优势就是可以在一个非常具体的问题上成为专家，尤其是对用户的了解。
+
+对用户在一个特定问题上，全面充分的了解可以算是公司的一个重要财产。
+
 =====================================
 
 参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) -  Marc Andreessen
