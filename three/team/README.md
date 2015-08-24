@@ -1,4 +1,4 @@
-### 4，组件一个强大的团队
+### 2，组件一个强大的团队
 
 "A startup messed up at its foundation can't be fixed."
 
