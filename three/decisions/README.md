@@ -25,7 +25,7 @@
 
 Make decisions based on real data, not your own assumptions.
 
-这个策略就是提出假设，设计产品收集数据，通过数据来验证假设成立与否。
+这个策略就是指：先提出假设，再设计产品收集数据，通过数据来验证假设成立与否。
 
 更具体的可以参考阅读《[Lean Startup](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/)》一书。
 
@@ -47,7 +47,9 @@ Make decisions based on real data, not your own assumptions.
 
 ![math](http://i.imgur.com/6cPvRNM.png?1 "Math")
 
-逻辑分析就是基于确凿的事实，通过反复使用较为严密的定义或已知的规律，得到结论
+逻辑分析就是基于确凿的事实，通过反复使用较为严密的定义或已知的规律，得到结论。
+
+在创业过程中，逻辑分析一般是指如何在脑中模拟重现一些决策可以得到的结果，并不是严格的推导，而是尽可能接近的估算。
 
 - 当你可以进行较为严密的分析时，选择逻辑分析是最快捷的方式。
 
@@ -65,9 +67,11 @@ Make decisions based on real data, not your own assumptions.
 
 采用Lean Startup的策略，可以保证你的产品逐渐逼近局域的最佳值，但却不能达到全局的最佳值，为了寻找全局的最佳值，就需要从更底层的事实出发，增加要考虑变量的数量。
 
-一个形象的数学上的类比（[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)）：
+一个数学上的类比，（[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)）：
 
 ![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
+
+
 
 ========================================
 
