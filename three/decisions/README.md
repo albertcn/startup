@@ -39,8 +39,6 @@ Make decisions based on real data, not your own assumptions.
 
 在产品设计上，相信直觉是一个非常直接有效地方法。但前提在于你要能够区分大众审美下的美丑，区分专业和业余的设计，简单地说你要对设计非常的敏感，你会因为一个粗糙的产品而感到坐立不安，会对一个出色的设计感到兴奋。
 
-在重要的决策上尽量不要使用直觉，如果没有强有力的证据做支撑，相信直觉和赌博没什么区别。
-
 ========================================
 
 #### 3，逻辑分析
@@ -51,31 +49,17 @@ Make decisions based on real data, not your own assumptions.
 
 在创业过程中，逻辑分析一般是指如何在脑中模拟重现一些决策可以得到的结果，并不是严格的推导，而是尽可能接近的估算。
 
-- 当你可以进行较为严密的分析时，选择逻辑分析是最快捷的方式。
+- 可以进行较为严密的分析时，选择逻辑分析是最快捷的方式。
 
-- 当你的直觉和严密的分析相抵触时，一定要相信逻辑胜过直觉，因为逻辑永远是正确地。
+- 当直觉和严密的分析相抵触时，相信逻辑胜过直觉。
 
-- 只利用类比来理解问题，不要用类比来分析问题。
+- 只利用类比来理解问题，不用类比来分析问题。
 
 根据明确的事实，采用较为底层的原理去推断，可以减低许多没有必要的试验，可以实现产品设计上的多次量子跃迁。
 
-例如，爱因斯坦的狭义、广义相对论就是通过几个简单地假设，经过严密的数学推导而取得的跨时代进步。
-
-例如，乔布斯带领下的iPod、iPhone和iPad是根据其对产品敏锐地洞察和分析得到的结果，而无需走假设试验测试这样一条保险却又耗时的长路。
-
-"Making small changes to things that already exist might lead you to a local maximum but it won't help you find the global maximum."
-
-采用Lean Startup的策略，可以保证你的产品逐渐逼近局域的最佳值，但却不能达到全局的最佳值，为了寻找全局的最佳值，就需要从更底层的事实出发，增加要考虑变量的数量。
-
-一个数学上的类比，（[Hill Climbing](https://en.wikipedia.org/wiki/Hill_climbing)）：
-
-![Local maximum](https://upload.wikimedia.org/wikipedia/commons/7/7e/Local_maximum.png)
-
-If a hill-climber begins in a poor location, it may converge to the lower maximum.
-
 ========================================
 
-为了更好的决策，还有一些其他的技巧，如：
+为了更好的决策，还有一些其他的技巧，例如：
 
 #### 1，站在别人的立场上看待问题 / Put yourself in other people's shoes
 
