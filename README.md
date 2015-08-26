@@ -1,6 +1,6 @@
 ## 浅谈基于软件的创业 / On software-based starups
 
-#### [前言 / Prologue](https://github.com/linyingkui/startup/tree/master/intro/README.md)
+<!--#### [前言 / Prologue](https://github.com/linyingkui/startup/tree/master/intro/README.md)-->
 
 #### 第一部分 / Part one：软件的未来与其商业价值 / Why software?
 
@@ -8,9 +8,9 @@
 
 2，[软件的商业价值 / Software is a great business](https://github.com/linyingkui/startup/tree/master/one/business/README.md)
 
-3，[软件的成功案例 / Successful software businesses](https://github.com/linyingkui/startup/tree/master/one/success/README.md)（not finished）
+<!--3，[软件的成功案例 / Successful software businesses](https://github.com/linyingkui/startup/tree/master/one/success/README.md)（not finished）-->
 
-#### 第二部分 / Part two：[创业的方向 / Ideas](https://github.com/linyingkui/startup/tree/master/two/README.md)（not finished）
+#### 第二部分 / Part two：[创业的方向 / Ideas]()（not finished）
 
 #### 第三部分 / Part three：[创业初期的一些策略 / Strategies](https://github.com/linyingkui/startup/tree/master/three/README.md)
 
