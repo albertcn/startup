@@ -10,7 +10,7 @@
 
 <!--3，[软件的成功案例 / Successful software businesses](https://github.com/linyingkui/startup/tree/master/one/success/README.md)（not finished）-->
 
-#### 第二部分 / Part two：[创业的方向 / Ideas]()（not finished）
+#### 第二部分 / Part two：创业的方向 / Ideas（not finished）
 
 #### 第三部分 / Part three：[创业初期的一些策略 / Strategies](https://github.com/linyingkui/startup/tree/master/three/README.md)
 
