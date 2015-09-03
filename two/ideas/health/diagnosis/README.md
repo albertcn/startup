@@ -10,7 +10,7 @@
 
 #### 2，解决方案 / Solution
 
-#### 3, 相比已有方案的创新和优点 / What's new and better
+#### 3，相比已有方案的创新和优点 / What's new and better
 
 #### 4，市场前景 / Market size
 
