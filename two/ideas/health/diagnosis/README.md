@@ -86,7 +86,7 @@
 
 #### 2，为什么其他人不能去做这个事情？/ Why can't others see this opportunity?
 
-其他人也可以做，这个领域竞争会很激烈。
+其他人也可以做，对这个问题没有很好地答案。
 
 #### 3，技术或是团队优势 / Team or tech advantages.
 
