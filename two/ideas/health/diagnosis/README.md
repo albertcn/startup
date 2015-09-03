@@ -1,6 +1,8 @@
 ### 远程医疗
 
-One Sentence Pitch：本地检测，异地就医。
+一句话简介 / One Sentence Pitch
+
+#### 本地检测，异地就医。
 
 ====
 
