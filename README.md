@@ -1,4 +1,4 @@
-## [创业配方 / Startup Recipe](https://github.com/linyingkui/startup/tree/master/three/README.md)
+## [创业配方 / Startup Recipe](https://github.com/albertcn/startup/tree/master/README.md)
 
 这里讨论的创业并不包含所有不受他人雇佣、自己创造财富的商业行为（也就是经商）。
 
@@ -22,7 +22,7 @@
 
 ======================
 
-## 创业的七个阶段
+### 创业的七个阶段
 
 创业是一个减低风险的过程，一个阶段一类风险，阶段越深，风险越低。
 
@@ -32,29 +32,36 @@
 
 不同的阶段有不同的难题，专注当下，集中精力解决[the one thing](https://www.amazon.com/dp/1885167776/)，一次又一次的推倒面前的那张多米诺骨牌，才能最终逾越那似乎难以征服的困难。
 
-=======================
 
-### 阶段一：[点子是一切的基础，做人们想要的产品](https://github.com/linyingkui/startup/tree/master/three/market-fit/README.md)
+#### 阶段一（idea / market）：[点子是一切的基础，做人们想要的产品](https://github.com/albertcn/startup/tree/master/three/market-fit/README.md)
+
+======================
 
 选择一个有巨大潜力的市场，用户对此需求真实且强烈，对已有方案有本质上的改良，这是一切的基础。
 
-### 阶段二：[找好合伙人，两个或是三个人为最佳](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
+#### 阶段二（team）：[找好合伙人，两个或是三个人为最佳](https://github.com/albertcn/startup/tree/master/three/team/README.md)
 
 最重要的合伙人一定是做产品的，只有设计出用户有真实需求的产品才有成功的可能。
 
 一定要极为谨慎地选择的合伙人，宁愿自己一个人干，也要选择一个值得信任、相互比较了解的合伙人。
 
-### 阶段三：用非常廉价、极度迅速的方式，制作种子产品（MVP)
+======================
+
+#### 阶段三：用非常廉价、极度迅速的方式，制作种子产品（MVP)
 
 如果失败，要迅速失败（fail fast），而不是拖泥带水的活在想象中，直到你和用户接触的那一天，才是真正开始创业的那一天。
 
 You don't learn until you launch.
 
-### 阶段四：[想尽办法争取到种子用户，特殊时期采用特殊的办法，不要以商业形式接触，而是以公益形式接触](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
+======================
+
+#### 阶段四：[想尽办法争取到种子用户，特殊时期采用特殊的办法，不要以商业形式接触，而是以公益形式接触](https://github.com/albertcn/startup/tree/master/three/not-scale/README.md)
 
 对于一个工程师背景的人来讲，这是最为艰难的一个阶段，因为你必须要主动的让那些排斥心理很重的用户去尝试你的产品
 
-### 阶段五：[像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
+======================
+
+#### 阶段五（product）：[像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大](https://github.com/albertcn/startup/tree/master/three/start-small/README.md)
 
 如果公司今后创造了巨大的价值，那么这一阶段就是制造这些价值的阶段，后来的营收都是水到渠成的自然结果。
 
@@ -64,25 +71,25 @@ You don't learn until you launch.
 
 **直到此阶段，才能算是走活了（established），至少不会轻易的死掉，或是融资吃力，接下来再考虑是自己造血产生现金流，还是积极融资扩张。**
 
-### 阶段六：开始侵略性的扩张，扩大团队规模，通过口口相传、销售、广告或是商业合作等方式，迅速获得市场
+#### 阶段六：开始侵略性的扩张，扩大团队规模，通过口口相传、销售、广告或是商业合作等方式，迅速获得市场
 
-### 阶段七：持续积累技术、内容和市场份额上的优势，降低其他竞争者进入的可能性（垄断市场，减少竞争）
+#### 阶段七：持续积累技术、内容和市场份额上的优势，降低其他竞争者进入的可能性（垄断市场，减少竞争）
 
 ======================
 
-## 创业的一些基本原则（今后逐步更新）
+### 创业的一些基本原则（今后逐步更新）
 
-### 一，[快就是好，fast equals good](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)
+#### 一，[快就是好，fast equals good](https://github.com/albertcn/startup/tree/master/three/decisions/README.md)
 
-### 二，持续寻求外界的建议和关注
+#### 二，持续寻求外界的建议和关注
 
-### 三，不要被消极噪音所打垮，理智地坚持到底
+#### 三，不要被消极噪音所打垮，理智地坚持到底
 
-### 四，士气是也是稀有的消耗品
+#### 四，士气是也是稀有的消耗品
 
 =====================
 
-## 一些有利于理解的类比
+### 一些有利于理解的类比
 
 1，如果公司是辆车，产品就是公司的发动机，做市场就是踩油门，如果发动机不给力，使多大劲踩油门也不会有效果
 
@@ -108,7 +115,7 @@ You don't learn until you launch.
 
 =====================
 
-#### 常见的失败原因（基于上述类比）
+### 常见的失败原因（基于上述类比）
 
 1，做出来的产品用户不喜欢（甚至是不实用）
 
@@ -126,16 +133,16 @@ You don't learn until you launch.
 
 接下来要讨论的策略大多集中在两个问题，如何在繁复的过程中区分主要和次要的因素？如何高效地利用有限的资源？
 
-1，[做人们想要的产品 / Make things people want](https://github.com/linyingkui/startup/tree/master/three/market-fit/README.md)
+1，[做人们想要的产品 / Make things people want](https://github.com/albertcn/startup/tree/master/three/market-fit/README.md)
 
-2，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
+2，[组建一支强大的团队 / Build a great team](https://github.com/albertcn/startup/tree/master/three/team/README.md)
 
-3，[把小做好，再做大 / Start small and expand](https://github.com/linyingkui/startup/tree/master/three/start-small/README.md)
+3，[把小做好，再做大 / Start small and expand](https://github.com/albertcn/startup/tree/master/three/start-small/README.md)
 
-4，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/linyingkui/startup/tree/master/three/not-scale/README.md)
+4，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/albertcn/startup/tree/master/three/not-scale/README.md)
 
-5，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/linyingkui/startup/tree/master/three/decisions/README.md)
+5，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/albertcn/startup/tree/master/three/decisions/README.md)
 
-6，[身体要棒，动作要快，工时要长 / Exercise more, execute faster and work longer](https://github.com/linyingkui/startup/tree/master/three/quick/README.md)
+6，[身体要棒，动作要快，工时要长 / Exercise more, execute faster and work longer](https://github.com/albertcn/startup/tree/master/three/quick/README.md)
 
-[后记 / Epilogue](https://github.com/linyingkui/startup/tree/master/finale/README.md)  -->
+[后记 / Epilogue](https://github.com/albertcn/startup/tree/master/finale/README.md)  -->

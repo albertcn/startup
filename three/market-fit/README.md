@@ -73,5 +73,5 @@ Most people don’t read, but scan. 大多数人不会仔细阅读，只是大�
 参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) -  Marc Andreessen
 
 =====================================
-
-2，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md)
+<!--
+2，[组建一支强大的团队 / Build a great team](https://github.com/linyingkui/startup/tree/master/three/team/README.md) -->
