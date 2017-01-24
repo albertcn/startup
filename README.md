@@ -8,7 +8,7 @@
 
 **这里讨论的创业指的是一项高风险、高回报的商业行为，创业者要提供一个从未存在或是进行过极大改良的产品或服务。**
 
-**我们称这样的创业为创新型创业**
+**我们称这样的创业为创新型创业。**
 
 产品新、风险高、回报高决定了创新性创业是一个极度艰难的过程，创业把大量复杂艰难的任务综合到一起，同时还有许多运气成分的干扰。
 
@@ -16,13 +16,15 @@
 
 作为一个创业者，面对巨大的未知，唯一的目标就是提高成功的概率，降低失败的风险，让公司和产品存活下去。
 
-每个创业的经历都有着其独特之处，其成功的模式和路径并不适用每一个创业公司，尤其是那些想做出巨大变革的公司，几乎可以认定起决定性因素的事件都是偶然的。
+每个创业公司的经历都有着其独特之处，其成功的模式和路径并不适用每一个创业公司，尤其是那些想做出巨大变革的公司，几乎可以认定起决定性因素的事件都是偶然的。
 
-但有一些非常底层的原则适用于大多数的创业公司，这些经验可以避免创业者犯一些常见的错误，少走些弯路，提高成功的概率。
+但有一些非常底层的原则适用于大多数的创业公司，这些经验可以少走些弯路，提高成功的概率。
 
 ======================
 
 ### 创业的七个阶段
+
+======================
 
 创业是一个减低风险的过程，一个阶段一类风险，阶段越深，风险越低。
 
@@ -34,21 +36,73 @@
 
 ======================
 
-#### 阶段一（idea）：[点子是一切的基础，做人们想要的产品](https://github.com/albertcn/startup/tree/master/three/market-fit/README.md)
-
-选择一个有巨大潜力的市场，用户对此需求真实且强烈，对已有方案有本质上的改良，这是一切的基础。
+#### 阶段一（idea）：点子是一切的基础，做人们想要的产品
 
 ======================
 
-#### 阶段二（team）：[找好合伙人，两个或是三个人为最佳](https://github.com/albertcn/startup/tree/master/three/team/README.md)
+1，选择一个有巨大潜力的市场，2，用户对此需求真实且强烈，3，对已有方案有本质上的改良
 
-最重要的合伙人一定是做产品的，只有设计出用户有真实需求的产品才有成功的可能。
+这些是创业能够成功的基础。这个原则可以认为是所有原则中的最高原则。
+
+Make things people want, love and even addict。
+
+尤其是在前期产品不成熟的情况下，更应该反复的追问：
+
+**这个产品是人们想要的产品吗？它能够给人们带来效率上的提高或是需求上的满足吗**
+
+**如果产品是对旧有方案的改进，那么这个产品较之旧有的方案有什么样的优势？这些优势足够强大到用户改变自己的旧有习惯来适应这个新产品吗？**
+
+如果答案是否定的，那么所有其他的原则也就失去了意义，所有的努力也就都白费了。
+
+做人们想要的产品似乎是显而易见的道理，但却很容易被创业者所（长期）忽视，原因在于：
+
+1，创业者需要处理和关注的事情太多，以致忘记了分清主次
+
+2，创业者会把一些错误的噪音认为是用户喜欢的信号
+
+3，创业者会因为自己做出了很多努力，本能的回避用户不接受产品的事实
+
+> 创业最大的风险是市场需求风险，是优先要避免的
+
+参考阅读：[The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html) -  Marc Andreessen
+
+======================
+
+#### 阶段二（team）：找好合伙人，两个或是三个人为最佳
+
+======================
+
+最重要的合伙人一定是设计产品的，只有创新地设计出用户有真实需求的产品才有成功的可能。
 
 一定要极为谨慎地选择的合伙人，宁愿自己一个人干，也要选择一个值得信任、相互比较了解的合伙人。
+
+"A startup messed up at its foundation can't be fixed."
+
+选择合伙人是一件极其重要甚至是致命的决定。
+
+1，合伙人是公司前期的主力，如果合伙人比较懒散自私，公司的效率会大打折扣，如果其愚钝肤浅，在决策上也会有很大的影响
+
+2，合伙人将拥有大量股份，一旦合伙人离去（即使有vesting），股权分配不佳会对融资和吸引人才造成影响
+
+3，合伙人将是公司文化的一部分，其工作方式会影响到其他员工的工作方式和习惯
+
+选择合伙人的几点建议（按照重要程度排序）：
+
+1，对项目极其认同，认可项目的未来，愿意为项目进行长时间、持续的投入
+
+2，要有吃苦耐劳、知难而上的毅力，而不是懒散享乐、缺乏自制
+
+3，可以理性的思考问题，而不是随性感性的做决定，头脑灵活，有全局观
+
+4，有相关的专长和经验，或是有相关的人际资源，可以为公司前期提供很大价值
+
+"As a founder, your first job is to get the first things right, because you can't build a great company on a flawed foundation."
 
 ======================
 
 #### 阶段三：用非常廉价、极度迅速的方式，制作种子产品（MVP)
+
+======================
 
 如果失败，要迅速失败（fail fast），而不是拖泥带水的活在想象中，直到你和用户接触的那一天，才是真正开始创业的那一天。
 
@@ -58,11 +112,15 @@ You don't learn until you launch.
 
 #### 阶段四：[想尽办法争取到种子用户，不以商业形式接触，而以公益形式推广](https://github.com/albertcn/startup/tree/master/three/not-scale/README.md)
 
+======================
+
 对于一个工程师背景的人来讲，这是最为艰难的一个阶段，因为你必须要主动的让那些排斥心理很重的用户去尝试你的产品。
 
 ======================
 
-#### 阶段五（重中之重！product-market-fit）：[像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大](https://github.com/albertcn/startup/tree/master/three/start-small/README.md)
+#### 阶段五（重中之重！）：像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大
+
+======================
 
 如果公司今后创造了巨大的价值，那么这一阶段就是制造这些价值的阶段，后来的营收都是水到渠成的自然结果。
 
@@ -79,8 +137,6 @@ You don't learn until you launch.
 **In short, customers are knocking down your door to get the product.**
 
 而如果这个阶段的市场需求非常明朗，接下来什么都变得好说了，**Traction trumps everything.**
-
-======================
 
 **直到此阶段，才能算是走活了（established），至少不会轻易的死掉，或是融资吃力，接下来再考虑是自己造血产生现金流，还是积极融资扩张。**
 
@@ -145,21 +201,3 @@ You don't learn until you launch.
 5，工时短，效率低，上了战场却用演习的态度
 
 =======================
-
-<!-- 创业有两个重要的特点，一个是要做的（或者说可以做的）事情太多，一个是资源非常有限。
-
-接下来要讨论的策略大多集中在两个问题，如何在繁复的过程中区分主要和次要的因素？如何高效地利用有限的资源？
-
-1，[做人们想要的产品 / Make things people want](https://github.com/albertcn/startup/tree/master/three/market-fit/README.md)
-
-2，[组建一支强大的团队 / Build a great team](https://github.com/albertcn/startup/tree/master/three/team/README.md)
-
-3，[把小做好，再做大 / Start small and expand](https://github.com/albertcn/startup/tree/master/three/start-small/README.md)
-
-4，[非常之时，采用非常手段 / Do things that don't scale](https://github.com/albertcn/startup/tree/master/three/not-scale/README.md)
-
-5，[总是迅速地做出正确的决定 / Always make the right decisions quickly](https://github.com/albertcn/startup/tree/master/three/decisions/README.md)
-
-6，[身体要棒，动作要快，工时要长 / Exercise more, execute faster and work longer](https://github.com/albertcn/startup/tree/master/three/quick/README.md)
-
-[后记 / Epilogue](https://github.com/albertcn/startup/tree/master/finale/README.md)  -->
