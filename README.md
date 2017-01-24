@@ -1,4 +1,4 @@
-## [创业配方 / Startup Recipe](https://github.com/albertcn/startup/tree/master/README.md)
+## 创业配方 / Startup Recipe
 
 这里讨论的创业并不包含所有不受他人雇佣、自己创造财富的商业行为（也就是经商）。
 
@@ -34,7 +34,7 @@
 
 ======================
 
-#### 阶段一（idea / market）：[点子是一切的基础，做人们想要的产品](https://github.com/albertcn/startup/tree/master/three/market-fit/README.md)
+#### 阶段一（idea）：[点子是一切的基础，做人们想要的产品](https://github.com/albertcn/startup/tree/master/three/market-fit/README.md)
 
 选择一个有巨大潜力的市场，用户对此需求真实且强烈，对已有方案有本质上的改良，这是一切的基础。
 
@@ -56,13 +56,13 @@ You don't learn until you launch.
 
 ======================
 
-#### 阶段四：[想尽办法争取到种子用户，特殊时期采用特殊的办法，不要以商业形式接触，而是以公益形式接触](https://github.com/albertcn/startup/tree/master/three/not-scale/README.md)
+#### 阶段四：[想尽办法争取到种子用户，不以商业形式接触，而以公益形式推广](https://github.com/albertcn/startup/tree/master/three/not-scale/README.md)
 
-对于一个工程师背景的人来讲，这是最为艰难的一个阶段，因为你必须要主动的让那些排斥心理很重的用户去尝试你的产品
+对于一个工程师背景的人来讲，这是最为艰难的一个阶段，因为你必须要主动的让那些排斥心理很重的用户去尝试你的产品。
 
 ======================
 
-#### 阶段五（product）：[像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大](https://github.com/albertcn/startup/tree/master/three/start-small/README.md)
+#### 阶段五（重中之重！product-market-fit）：[像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大](https://github.com/albertcn/startup/tree/master/three/start-small/README.md)
 
 如果公司今后创造了巨大的价值，那么这一阶段就是制造这些价值的阶段，后来的营收都是水到渠成的自然结果。
 
@@ -70,9 +70,20 @@ You don't learn until you launch.
 
 那些想通过简单模仿干掉你的竞争对手，最大的难题，就是没有你更加了解这些用户。
 
+这个时期也是最为重要的时期，如果你可以提供一个明显优于已有解决方案的策略，但是你却不能通过口口相传打开局面，这就是一个非常危险的信号。
+
+**In a great market -- a market with lots of real potential customers -- the market pulls product out of the startup.**
+
+判断这一阶段成功的标准就是：
+
+**In short, customers are knocking down your door to get the product.**
+
+而如果这个阶段的市场需求非常明朗，接下来什么都变得好说了，**Traction trumps everything.**
+
 ======================
 
 **直到此阶段，才能算是走活了（established），至少不会轻易的死掉，或是融资吃力，接下来再考虑是自己造血产生现金流，还是积极融资扩张。**
+
 ======================
 
 #### 阶段六：开始侵略性的扩张，扩大团队规模，通过口口相传、销售、广告或是商业合作等方式，迅速获得市场
