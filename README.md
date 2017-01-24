@@ -1,4 +1,7 @@
-#### [创业配方 / Startup Recipe](https://github.com/linyingkui/startup/tree/master/three/README.md)
+## [创业配方 / Startup Recipe](https://github.com/linyingkui/startup/tree/master/three/README.md)
+
+
+======================
 
 这里讨论的创业并不包含所有不受他人雇佣、自己创造财富的商业行为（也就是经商）。
 
