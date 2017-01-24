@@ -1,4 +1,15 @@
-### 创业的七个阶段 / Startup Recipe
+
+### 创业的七个策略 / Startup Recipe
+
+=====================
+
+主要内容：
+
+1, 创业是一个quantum leap的过程，必须要一个阶段一个阶段的经历，在一个阶段内，要解决好这个阶段的问题。
+
+每个阶段都会很难，但是只有这种坚韧不拔的去面对和解决这些问题才能达到彼岸。
+
+2，创业拼的就是速度，没有任何借口，只有快才能制胜。
 
 ======================
 
@@ -8,15 +19,19 @@
 
 为了降低难度和干扰，最好在每个阶段都要，do one thing, do one thing only and well.
 
-创业的特点是 **事情多，资源少** 。如果在不同的阶段，消耗了没有必要的资源（尤其是士气），都会在今后的过程中不断还债。
-
-不同的阶段有不同的难题，专注当下，集中精力解决 [the one thing](https://www.amazon.com/dp/1885167776/)，只有一次又一次的推倒面前的那张多米诺骨牌，才能最终逾越那似乎难以征服的困难。
-
->At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And If you solve enough problems, you get to come home.
+创业的特点是事情多、资源少，策略要得当，否则就会在达到目标之前消耗掉稀有的资源（时间、金钱和士气）。
 
 ======================
 
-#### 阶段一：选好方向和点子，做人们想要的产品
+>    不同的阶段有不同的难题，专注当下，集中精力解决 [the one thing](https://www.amazon.com/dp/1885167776/)，只有一次又一次的推倒面前的那张多米诺骨牌，才能最终逾越那似乎难以征服的困难。
+
+======================
+
+>    At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And if you solve enough problems, you get to come home.
+
+======================
+
+#### 基础一：选好方向和点子，做人们想要的产品
 
 ======================
 
@@ -50,7 +65,7 @@ Make things people want, love and even addict。
 
 ======================
 
-#### 阶段二：找好合伙人
+#### 基础二：找好合伙人
 
 ======================
 
@@ -88,17 +103,21 @@ Make things people want, love and even addict。
 
 ======================
 
-如果失败，要迅速失败（fail fast），而不是拖泥带水的活在想象中，直到你和用户接触的那一天，才是真正开始创业的那一天。
+如果失败，要迅速失败（fail fast），而不是拖泥带水的活在想象中。
 
-You don't learn until you launch.
+直到产品和用户接触的那一天，才是真正开始创业的那一天。
 
-======================
-
-#### 阶段四：想尽办法争取到种子用户，不以商业形式接触，而以公益形式推广
+[You don't learn until you launch.](http://www.amazon.com/The-Day-Startup-Learn-Launch-ebook/dp/B00NZFKB8S)
 
 ======================
 
-对于一个工程师背景的人来讲，这是最为艰难的一个阶段，因为你必须要主动的让那些排斥心理很重的用户去尝试你的产品。
+#### 阶段四：想尽办法争取到种子用户
+
+======================
+
+对于一个工程背景的人来讲，这是最为艰难的一个阶段，因为你必须要让那些排斥心理很重的用户去尝试你的产品。
+
+不以商业形式接触，而以公益形式推广，降低用户的戒心。
 
 ======================
 
@@ -140,9 +159,26 @@ You don't learn until you launch.
 
 #### 一，快就是好，fast equals good, fast as a habit
 
+做事情要快，做决定要快，be decisive.
+
+如果你不是在创业，而是在战场指挥一场战斗，你作为指挥官，带着自己的战士去攻下一个战地。
+
+如果你不能迅速做出决定，你就会为此多死掉一些战士；如果你做出了错误的决定，那就会死掉更多的人，甚至是全军覆没，失去战斗。
+
+商场没有战场那么残酷，但是也很相近，只不过失去的不是生命，而是时间和金钱。
+
+>  "Startups are like jumping off a cliff and building a plane on the way down"
+>                    - Reid Hoffman
+
+在创业初期，无需处处完美，而是处处要快。
+
+参考文章：《[Do things that don't scale](http://paulgraham.com/ds.html)》&《[Do things that don't scale](http://startupclass.samaltman.com/courses/lec08/)》
+
 ======================
 
 #### 二，切记：资源有限，谨慎分配，士气也是稀有的消耗品
+
+> Morale is tremendously important to a startup—so important that morale alone is almost enough to determine success. Startups are often described as emotional roller-coasters. One minute you're going to take over the world, and the next you're doomed. The problem with feeling you're doomed is not just that it makes you unhappy, but that it makes you stop working. So the downhills of the roller-coaster are more of a self fulfilling prophecy than the uphills. If feeling you're going to succeed makes you work harder, that probably improves your chances of succeeding, but if feeling you're going to fail makes you stop working, that practically guarantees you'll fail.
 
 ======================
 
@@ -153,6 +189,12 @@ If you ask for money, you get advice. If you ask for advice, you get money.
 ======================
 
 #### 四，不要被消极噪音所打垮，理智地坚持到底
+
+Always solve a little more, and stick a little longer.
+
+不要盲目的坚持，更不要盲目的放弃，因为坚持着，可能还有变化和转机，放弃就彻底没了希望。
+
+> I gotta keep breathing. Because tomorrow the sun will rise. Who knows what the tide could bring?
 
 =====================
 
