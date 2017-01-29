@@ -1,33 +1,45 @@
 
-### 创业的七个策略 / Startup Recipe
+### 创业的两个基础、三个原则和五个阶段
 
 =====================
 
-主要内容：
+总览：
 
-1, 创业是一个quantum leap的过程，必须要一个阶段一个阶段的经历，在一个阶段内，要解决好这个阶段的问题。
+=====================
 
-每个阶段都会很难，但是只有这种坚韧不拔的去面对和解决这些问题才能达到彼岸。
+两个基础是指：
 
-2，创业拼的就是速度，没有任何借口，只有快才能制胜。
+1，PMF: 在巨大市场里，做人们想要的产品
 
-======================
+2，TEAM: 找到靠谱的合伙人（创业会让人变强，have a growth mindset.）
 
-创业是一个逐步减低风险的过程，一个阶段一类风险，阶段越深，风险越低。
+=====================
 
-如果我们把创业比作一个闯关游戏，那么这七个阶段就是七个关卡。
+三个原则是指：
 
-为了降低难度和干扰，最好在每个阶段都要，do one thing, do one thing only and well.
+1，FOCUS: always focus on the ONE thing. One step ahead of time.
 
-创业的特点是事情多、资源少，策略要得当，否则就会在达到目标之前消耗掉稀有的资源（时间、金钱和士气）。
+2，SPEED: 创业拼的就是速度，没有任何借口，只有快才能制胜。
 
-======================
+3，DETERMINED: be tough, be determined, be perseverance.
 
->    不同的阶段有不同的难题，专注当下，集中精力解决 [the one thing](https://www.amazon.com/dp/1885167776/)，只有一次又一次的推倒面前的那张多米诺骨牌，才能最终逾越那似乎难以征服的困难。
+=====================
 
-======================
+五个阶段是指：
 
->    At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And if you solve enough problems, you get to come home.
+1，制作第一款能够使用的产品
+
+2，找到第一批用户，需求强烈，容忍度高
+
+3，***重中之重***：不断打磨产品，通过口碑验证市场需求
+
+4，侵略性的扩张，迅速获得市场
+
+5，建立竞争壁垒，巩固市场地位
+
+=====================
+
+### 创业的两个基础
 
 ======================
 
@@ -65,15 +77,15 @@ Make things people want, love and even addict。
 
 ======================
 
-#### 基础二：找好合伙人
+#### 基础二：找到靠谱的合伙人
 
 ======================
 
 最重要的合伙人一定是设计产品的，只有创新地设计出用户有真实需求的产品才有成功的可能。
 
-一定要极为谨慎地选择的合伙人，宁愿自己一个人干，也要选择一个值得信任、相互比较了解的合伙人。
+一定要极为谨慎地选择合伙人，宁愿自己一个人干，也要选择一个值得信任、相互比较了解的合伙人。
 
-最好是两个或者三个合伙人，而不是一个，或者四五个，多余五个就非常的麻烦。
+最好是两个或者三个合伙人，一、四、五个为次选，多于五个就非常的麻烦。
 
 "A startup messed up at its foundation can't be fixed."
 
@@ -95,69 +107,35 @@ Make things people want, love and even addict。
 
 4，有相关的专长和经验，或是有相关的人际资源，可以为公司前期提供很大价值
 
-"As a founder, your first job is to get the first things right, because you can't build a great company on a flawed foundation."
+> "As a founder, your first job is to get the first things right, because you can't build a great company on a flawed foundation."
+
+=====================
+
+### 创业的三个原则
 
 ======================
 
-#### 阶段三：用非常廉价、极度迅速的方式，制作种子产品（MVP)
+#### 1，always focus on the ONE thing.
 
 ======================
 
-如果失败，要迅速失败（fail fast），而不是拖泥带水的活在想象中。
+没有谁的大脑可以同时进行多项高强度的脑力活动。
 
-直到产品和用户接触的那一天，才是真正开始创业的那一天。
+为了降低难度和干扰，最好在每个阶段都要，do one thing, do one thing only and well.
 
-[You don't learn until you launch.](http://www.amazon.com/The-Day-Startup-Learn-Launch-ebook/dp/B00NZFKB8S)
+创业的特点是事情多、资源少，策略要得当，否则就会在达到目标之前消耗掉稀有的资源（时间、金钱和士气）。
 
-======================
+>    不同的阶段有不同的难题，专注当下，集中精力解决 [the one thing](https://www.amazon.com/dp/1885167776/)，只有一次又一次的推倒面前的那张多米诺骨牌，才能最终逾越那似乎难以征服的困难。
 
-#### 阶段四：想尽办法争取到种子用户
+>    At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And if you solve enough problems, you get to come home.
 
-======================
-
-对于一个工程背景的人来讲，这是最为艰难的一个阶段，因为你必须要让那些排斥心理很重的用户去尝试你的产品。
-
-不以商业形式接触，而以公益形式推广，降低用户的戒心。
+每个阶段都会很难，但是只有这种坚韧不拔的去面对和解决这些问题才能达到彼岸。
 
 ======================
 
-#### 阶段五（重中之重！）：像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大
+#### 2，创业拼的就是速度，没有任何借口，只有快才能制胜。
 
 ======================
-
-如果公司今后创造了巨大的价值，那么这一阶段就是制造这些价值的阶段，后来的营收都是水到渠成的自然结果。
-
-要通过这一阶段，深度了解用户的使用习惯、消费心理，最大化的降低他们的痛苦，提高使用产品的愉悦感。
-
-那些想通过简单模仿干掉你的竞争对手，最大的难题，就是没有你更加了解这些用户。
-
-这个时期也是最为重要的时期，如果你可以提供一个明显优于已有解决方案的策略，但是你却不能通过口口相传打开局面，这就是一个非常危险的信号。
-
-**In a great market -- a market with lots of real potential customers -- the market pulls product out of the startup.**
-
-判断这一阶段成功的标准就是：
-
-**In short, customers are knocking down your door to get the product.**
-
-而如果这个阶段的市场需求非常明朗，接下来什么都变得好说了，**Traction trumps everything.**
-
-**直到此阶段，才能算是走活了（established），至少不会轻易的死掉，或是融资吃力，接下来再考虑是自己造血产生现金流，还是积极融资扩张。**
-
-======================
-
-#### 阶段六：开始侵略性的扩张，扩大团队规模，通过口口相传、销售、广告或是商业合作等方式，迅速获得市场
-
-======================
-
-#### 阶段七：持续积累技术、内容和市场份额上的优势，降低其他竞争者进入的可能性（垄断市场，减少竞争）
-
-======================
-
-### Stage-free Strategies
-
-======================
-
-#### 一，快就是好，fast equals good, fast as a habit
 
 做事情要快，做决定要快，be decisive.
 
@@ -176,25 +154,77 @@ Make things people want, love and even addict。
 
 ======================
 
-#### 二，切记：资源有限，谨慎分配，士气也是稀有的消耗品
+#### 3，be tough, be determined, be perseverance.
 
-> Morale is tremendously important to a startup—so important that morale alone is almost enough to determine success. Startups are often described as emotional roller-coasters. One minute you're going to take over the world, and the next you're doomed. The problem with feeling you're doomed is not just that it makes you unhappy, but that it makes you stop working. So the downhills of the roller-coaster are more of a self fulfilling prophecy than the uphills. If feeling you're going to succeed makes you work harder, that probably improves your chances of succeeding, but if feeling you're going to fail makes you stop working, that practically guarantees you'll fail.
+=====================
 
-======================
+> Startup life is like a box of chocolates. You never know what you're gonna get.
 
-#### 三，持续寻求外界的建议和关注
+很多重大的转折是你在创业前难以预料的。无论是积极地转折点，还是灾难性的坏消息，所有这些都是难以预知的，而最好的办法就是乐观面对，坚持到底。
 
-If you ask for money, you get advice. If you ask for advice, you get money.
-
-======================
-
-#### 四，不要被消极噪音所打垮，理智地坚持到底
+> I gotta keep breathing. Because tomorrow the sun will rise. Who knows what the tide could bring?
 
 Always solve a little more, and stick a little longer.
 
 不要盲目的坚持，更不要盲目的放弃，因为坚持着，可能还有变化和转机，放弃就彻底没了希望。
 
-> I gotta keep breathing. Because tomorrow the sun will rise. Who knows what the tide could bring?
+=====================
+
+### 创业的五个阶段
+
+======================
+
+#### 阶段一：用非常廉价、极度迅速的方式，制作种子产品（MVP)
+
+======================
+
+如果失败，要迅速失败（fail fast），而不是拖泥带水的活在想象中。
+
+直到产品和用户接触的那一天，才是真正开始创业的那一天。
+
+[You don't learn until you launch.](http://www.amazon.com/The-Day-Startup-Learn-Launch-ebook/dp/B00NZFKB8S)
+
+======================
+
+#### 阶段二：想尽办法争取到种子用户
+
+======================
+
+对于一个工程背景的人来讲，这是最为艰难的一个阶段，因为你必须要让那些排斥心很重的用户去尝试你的产品。
+
+不以商业形式接触，而以公益形式推广，降低用户的戒心。
+
+======================
+
+#### 阶段三（重中之重！）：像做公益一样把种子用户群体服务好，服务到对产品形成依赖甚至是痴迷，把小做好再做大
+
+======================
+
+如果公司今后创造了巨大的价值，那么这一阶段就是制造这些价值的阶段，后来的营收都是水到渠成的自然结果。
+
+要通过这一阶段，深度了解用户的使用习惯、消费心理，最大化的降低他们的痛苦，提高使用产品的愉悦感。
+
+那些想通过模仿干掉你的对手，最大的难题，就是没有你更加了解这些用户。
+
+这个时期也是最为重要的时期，如果你可以提供一个明显优于已有解决方案的策略，但是你却不能通过口口相传打开局面，这就是一个非常危险的信号。
+
+**In a great market -- a market with lots of real potential customers -- the market pulls product out of the startup.**
+
+判断这一阶段成功的标准是：
+
+**In short, customers are knocking down your door to get the product.**
+
+而如果这个阶段的市场需求非常明朗，接下来什么都变得好说了，**Traction trumps everything.**
+
+**直到此阶段，才能算是走活了（established），至少不会轻易的死掉，或是融资吃力，接下来再考虑是自己造血产生现金流，还是积极融资扩张。**
+
+======================
+
+#### 阶段四：开始侵略性的扩张，扩大团队规模，通过口口相传、销售、广告或是商业合作等方式，迅速获得市场
+
+======================
+
+#### 阶段五：持续积累技术、内容和市场份额上的优势，降低其他竞争者进入的可能性（垄断市场，减少竞争）
 
 =====================
 
