@@ -1,31 +1,33 @@
 
 ### 创业杂谈
 
+Lastest update: 2017/02/02
+
 =====================
 
 全文总览：
 
 =====================
 
-两个基础是指：
+两个基础：
 
 1，PMF: 在巨大市场里，做人们想要的产品
 
-2，TEAM: 找到靠谱的合伙人（创业会让人变强，have a growth mindset.）
+2，TEAM: 靠谱的合伙人
 
 =====================
 
-三个原则是指：
+三个原则：
 
-1，FOCUS: always focus on the ONE thing. One step ahead of time.
+1，FOCUSED: always focus on the ONE thing. One step ahead of time.
 
-2，SPEED: 创业拼的就是速度，没有任何借口，只有快才能制胜。
+2，FAST: 创业拼的就是速度，没有任何借口，只有快才能制胜。
 
 3，DETERMINED: be tough, be determined, be perseverance.
 
 =====================
 
-五个阶段是指：
+五个阶段：
 
 1，制作第一款能够使用的产品
 
@@ -129,7 +131,7 @@ Make things people want, love and even addict。
 
 >    At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And if you solve enough problems, you get to come home.
 
-每个阶段都会很难，但是只有这种坚韧不拔的去面对和解决这些问题才能达到彼岸。
+每个阶段都会很难，但是只有坚韧不拔的去面对和解决这些问题才能达到彼岸。
 
 ======================
 
@@ -212,11 +214,11 @@ Always solve a little more, and stick a little longer.
 
 判断这一阶段成功的标准是：
 
-**In short, customers are knocking down your door to get the product.**
+***In short, customers are knocking down your door to get the product.***
 
 而如果这个阶段的市场需求非常明朗，接下来什么都变得好说了，**Traction trumps everything.**
 
-**直到此阶段，才能算是走活了（established），至少不会轻易的死掉，或是融资吃力，接下来再考虑是自己造血产生现金流，还是积极融资扩张。**
+**直到此阶段，才能算是走活了，至少不会轻易的死掉，或是融资吃力，接下来再考虑是自己造血产生现金流，还是积极融资扩张。**
 
 ======================
 
